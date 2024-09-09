@@ -13,5 +13,9 @@ Throughout my career, I have worked in analytical roles spanning the fields of m
 
 Previously, as a Data Scientist at Preteckt, I led model development projects predict engine malfunctions for commercial vehicles using Python and SQL, with the aim of reducing misclassifications by 25% (Learn more [on their site](https://preteckt.com)). Demonstrating my skills at this position quickly expanded my role to producing a variety of visualizations and reports surrounding company performance. As a Research Data Analyst at the University of Pittsburgh, I developed inferential and predictive models using a variety of regression and machine learning techniques, collaborating with researchers to solve complex problems in oncology, radiology, and public health. My ability to transform raw data into actionable insights, along with presenting findings, has been a consistent part of my contributions across these fields.
 
-I earned my MA and BSc in Statistics from the University of Pittsburgh. More about me here!
+I earned my MA and BSc in Statistics from the [University of Pittsburgh](https://www.pitt.edu). During my time there, I had the pleasure of working with a outstanding group of students and faculty. My studies laid the groundwork for my experimental design, machine learning, and data visualization skills, equipping me with skills to tackle complex analystical challenges.
+
+Outside of work, I enjoy cooking, weightlifting, making music, and watching classic sci-fi movies.
+
+
 
