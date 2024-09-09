@@ -11,35 +11,66 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Applied Statistics, University of Pittsburgh, 2022
+* B.Sc. in Statistics, University of Pittsburgh, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024 - Present: AI Content Editor
+  * Outlier
+  * Duties: 
+    * Evaluating Large Language Models (LLMs) for their ability to translate prompts into functional Python and SQL code
+      and providing comprehensive reports on their effectiveness.
+    * Employing testing and debugging techniques with meticulous attention to detail to reduce error.
+    * Validating code output as it relates to data analysis, web scraping, and navigation tasks.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall/Winter 2023: Data Scientist
+  * [Preteckt](https://preteckt.com)
+  * Duties: 
+    * Managed complex model development projects to predict engine malfunctions and failures on class 8 vehicles using R,
+      Python, and SQL.
+    * Gathered, cleaned, and transformed data to translate findings to an improved product.
+    * Presented a variety of data visualizations covering model efficacy as well as company performance.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2021 - Spring 2023: Research Data Analyst
+  * University of Pittsburgh
+  * Duties included:
+    * Developed models for inferential and predictive tasks using regression and machine learning techniques.
+    * Summarized and presented results to colleagues and clients through reports, data visualizations, and oral presentations.
+    * Collaborated with researchers across various fields, fostering a well-rounded understanding of statistics applications in diverse domains.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * R
+  * SQL
+  * SAS
+ 
+* Libraries and Tools
+  * Power BI (currently learning)
+  * Pandas
+  * NumPy
+  * Matplotlib
+  * scikit-learn
+  * SQLAlchemy
+  * MySQL
+  * SQLite
+  * ggplot
+  * caret
+  * randomForest
+  * LaTeX
+
+* Data Science Skills
+  * Extract, Transform, Load
+  * Feature Engineering
+  * Statistical Analysis Fundamentals (Hypothesis Testing, ANOVA, etc.)
+  * Data Visualization (Power BI and Python/R libraries)
+  * Supervised Learning (Regression, Decision Trees and Random Forest, Gradient Boosting, Nearest Neighbors)
+  * Unsupervised Learning (PCA, Clustering, Autoencoders, Anomaly Detection)
+  * Model Tuning
+  * Pipeline Integration
+  * Natural Language Processing
 
 Publications
 ======
