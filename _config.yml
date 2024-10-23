@@ -21,7 +21,7 @@ repository               : "meyersdan/meyersdan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "reduced_size_image.jpeg"
+  avatar           : "sitepfp.jpeg"
   name             : "Dan Meyers"
   pronouns         : "he/him" 
   bio              : "Data Scientist | Data Analysis, Machine Learning"
