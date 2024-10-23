@@ -12,32 +12,32 @@ redirect_from:
 Education
 ======
 * M.A. in Applied Statistics, University of Pittsburgh, 2022
+  * Focus: Machine Learning and Experimental Design
 * B.Sc. in Statistics, University of Pittsburgh, 2021
+  * Focus: Statistical Learning Software
 
 Work experience
 ======
-* Spring 2024 - Present: AI Content Editor
-  * Outlier
-  * Duties: 
-    * Evaluating Large Language Models (LLMs) for their ability to translate prompts into functional Python and SQL code
-      and providing comprehensive reports on their effectiveness.
-    * Employing testing and debugging techniques with meticulous attention to detail to reduce error.
-    * Validating code output as it relates to data analysis, web scraping, and navigation tasks.
+* Spring 2024 - Present: Data Science Contractor (Python and SQL Specialist)
+  * Outlier, [Scale](https://scale.com)
+  * Duties:
+    * Perform data analysis and model evaluation to identify trends, improving project delivery and client satisfaction by optimizing Python and SQL outputs.
+    * Utilize Python and SQL for data extraction, web scraping, and automation, enhancing data analysis workflows.
+    * Deliver high-quality reports, commended for accuracy and integrated into the Reinforcement Learning with Human Feedback (RLHF) pipeline.
 
 * Fall/Winter 2023: Data Scientist
   * [Preteckt](https://preteckt.com)
-  * Duties: 
-    * Managed complex model development projects to predict engine malfunctions and failures on class 8 vehicles using R,
-      Python, and SQL.
-    * Gathered, cleaned, and transformed data to translate findings to an improved product.
-    * Presented a variety of data visualizations covering model efficacy as well as company performance.
+  * Duties:
+    * Led complex model development projects predicting engine failures on class 8 vehicles using Python, R, and SQL, improving accuracy by nearly 20%.
+    * Transformed raw data into actionable insights, refining product performance and reducing road breakdowns by 10%.
+    * Communicated data insights and model performance to stakeholders, influencing strategic decisions across teams.
 
 * Summer 2021 - Spring 2023: Research Data Analyst
   * University of Pittsburgh
   * Duties included:
-    * Developed models for inferential and predictive tasks using regression and machine learning techniques.
-    * Summarized and presented results to colleagues and clients through reports, data visualizations, and oral presentations.
-    * Collaborated with researchers across various fields, fostering a well-rounded understanding of statistics applications in diverse domains.
+    * Developed statistical models for inferential and predictive tasks using Python, R, and machine learning techniques.
+    * Delivered comprehensive reports and data visualizations to academic and industry clients, facilitating data-driven decision-making.
+    * Collaborated with interdisciplinary researchers to apply statistical models to various fields, advancing research goals.
 
 Skills
 ======
@@ -46,9 +46,10 @@ Skills
   * R
   * SQL
   * SAS
- 
+
 * Libraries and Tools
   * Power BI (currently learning)
+  * Tableau
   * Pandas
   * NumPy
   * Matplotlib
@@ -62,15 +63,14 @@ Skills
   * LaTeX
 
 * Data Science Skills
-  * Extract, Transform, Load
+  * Extract, Transform, Load (ETL)
   * Feature Engineering
-  * Statistical Analysis Fundamentals (Hypothesis Testing, ANOVA, etc.)
-  * Data Visualization (Power BI and Python/R libraries)
-  * Supervised Learning (Regression, Decision Trees and Random Forest, Gradient Boosting, Nearest Neighbors)
+  * Statistical Analysis (Hypothesis Testing, ANOVA, etc.)
+  * Data Visualization (Power BI, Tableau, Python/R libraries)
+  * Supervised Learning (Regression, Decision Trees, Random Forest, Gradient Boosting, Nearest Neighbors)
   * Unsupervised Learning (PCA, Clustering, Autoencoders, Anomaly Detection)
-  * Model Tuning
-  * Pipeline Integration
-  * Natural Language Processing
+  * Model Tuning and Pipeline Integration
+  * Natural Language Processing (NLP)
 
 <!-- Publications
 ======
